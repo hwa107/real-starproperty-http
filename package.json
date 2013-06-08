@@ -1,0 +1,7 @@
+{
+  "name" : "sinar-real-starproperty-http",
+  "version" : "0.0.1",
+  "dependensies" : {
+    "request" : "2.21.1"
+  }
+}
